@@ -4,6 +4,12 @@ This is a chat application project that allows users to communicate with each ot
 It is built using the Spring Boot framework for the backend, SockJS for WebSocket communication, and HTML, CSS and JavaScript for the frontend.
 The project utilizes Maven as the build tool for the backend.
 
+## Features
+* Users are required to log in with a username before they can access the chat application.
+* Once logged in, users are directed to the chat page where they can send messages in the chatroom.
+*  Users are notified when new users join the chatroom, allowing them to be aware of other participants.
+* Users can log out from the application, and their username will be removed from the user list displayed to other participants.
+
 ## Tech Stack
 * **Spring-Boot** : A Java-based framework used for building the backend server and handling business logic.
   
@@ -32,11 +38,13 @@ The project utilizes Maven as the build tool for the backend.
 5. **Open your web browser** and visit http://localhost:8085 to access the chat application.
 
 ## ScreenShot
-
+-Login
 ![Login](img/login.jpg)
+
+- Chat Room
 ![add user](img/img1.jpg)
 ![chat ](img/img2.jpg)
-![user left](img/img3.jpg)
+
 
 
 
