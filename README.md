@@ -29,7 +29,7 @@ The project utilizes Maven as the build tool for the backend.
 ## Installation
 1. **Clone the repository**: `git clone https://github.com/aman-gupti/Chat_Application.git`
    
-2. **Navigate to the project directory**: `cd ChatApplication1`
+2. **Navigate to the project directory**: `cd ChatApplication`
 
 3. **Build the project**: `mvn clean install`
 
