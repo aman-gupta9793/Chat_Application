@@ -46,7 +46,7 @@ The project utilizes Maven as the build tool for the backend.
 ![chat ](img/img2.jpg)
 
 
-##Contributing
+## Contributing
   Contributions are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
 
