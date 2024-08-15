@@ -22,9 +22,9 @@ The project utilizes Maven as the build tool for the backend.
 * **CSS** : The style sheet language used to control the presentation of HTML elements, enhancing the visual layout and appearance of web pages.
 
 ## Prerequisites
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 17 or higher
 - Maven
-- IDE : IntelliJ
+- IDE : IntelliJ (or) Eclipse
 
 ## Installation
 1. **Clone the repository**: `git clone https://github.com/aman-gupti/Chat_Application.git`
